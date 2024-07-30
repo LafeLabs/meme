@@ -21,3 +21,5 @@
 ![](memes/meme7.svg)
 
 ![](memes/meme8.png)
+
+ - [php/replicator.txt](php/replicator.txt)
