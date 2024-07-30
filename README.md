@@ -19,3 +19,5 @@
 ![](memes/meme6.svg)
 
 ![](memes/meme7.svg)
+
+![](memes/meme8.png)
